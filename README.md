@@ -1,7 +1,7 @@
 
 ## ShopSite 
 
-![ShopSite Demo](shopsite-demo.jpg)
+![ShopSite Demo](assets/images/shopsite-demo.jpg)
 
 ## 🚀 Project Overview
 
